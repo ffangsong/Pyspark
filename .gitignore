@@ -1,5 +1,5 @@
 # Ignore folder below
 sf_crime/
-
+test
 # Ignore all ..ipynb_checkpoints file
- *.ipynb_checkpoints
+ **/*.ipynb_checkpoints/*.ipynb
